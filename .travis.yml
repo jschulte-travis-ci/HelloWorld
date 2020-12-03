@@ -1,3 +1,5 @@
 language: swift
 osx_image: xcode11.1
 xcode_project: HelloWorld.xcodeproj
+install: true
+xcode_scheme: HelloWorldTests
